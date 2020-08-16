@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+ I can speak portuguese, english, french, _spanish_ and _arabic_.
+ I majored in **economics** and now i'm learning **programming**.
